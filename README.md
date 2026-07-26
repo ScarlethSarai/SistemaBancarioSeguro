@@ -7,9 +7,11 @@
 
 <body>
 
-<h1>Sistema Bancario Seguro</h1>
+<h1>Sistema Bancario Inseguro</h1>
 
-<p>Bienvenido al sistema.
+<p>ERROR: Acceso permitido sin autenticación.</p>
+
+<h2>Base de datos expuesta</h2>
 
 </body>
 </html>
